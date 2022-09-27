@@ -1,2 +1,2 @@
 # verificaolucas.vk2
-["lucas.xl0""_tainx_""y2k_suzana""cepnmmx"]
+"lucas.json"y2k_suzana"cepnmmx"lucas.xl0"
